@@ -36,4 +36,26 @@ I am actively seeking **remote or hybrid opportunities** where I can apply my sk
 - Problem Solving  
 - Communication & Data Storytelling  
 - Business Acumen  
-- Attention to Detail
+- Attention to Detail  
+- Team Collaboration  
+- Adaptability  
+- Time Management  
+- Decision Making  
+
+---
+
+## 🏆 Projects & Certifications
+
+This portfolio highlights projects that showcase real-world **data analysis, dashboards, and actionable insights**. All certifications are verified and can be viewed [here](#certifications).  
+
+---
+
+## 📬 Contact Me
+
+- **Email:** [kpanukuchikaobi@gmail.com](mailto:kpanukuchikaobi@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/kpanuku-chika-obi-msc-mncs-3aaa57230](https://www.linkedin.com/in/kpanuku-chika-obi-msc-mncs-3aaa57230)  
+
+---
+
+> "Data tells the story. I turn it into actionable insights for business growth."
+
